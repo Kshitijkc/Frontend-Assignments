@@ -1,0 +1,139 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+a {
+    color: blue;
+}
+
+body {
+    padding: 10px;
+}
+
+hr {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.alumni-list {
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.contact-para {
+    margin-top: 20px;
+}
+
+.d-tree-para {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.d-tree-para>div {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding-left: 5px;
+    font-weight: bold;
+}
+
+.first-div {
+    display: flex;
+    margin: 5px;
+}
+
+.first-list-follow-me {
+    margin-top: 10px;
+}
+
+.follow-button {
+    background-color: #1d9bf0;
+    padding: 3px 10px 3px 10px;
+    border-radius: 20px;
+    color: white;
+    text-decoration: none;
+    font-size: smaller;
+    position: relative;
+    bottom: 5px;
+}
+
+.follow-me {
+    list-style-type: none;
+    margin-bottom: 20px;
+}
+
+.follow-me>li {
+    margin-left: 20px;
+}
+
+.footer-email-signature {
+    color: blue;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.heading {
+    width: 100%;
+    margin-left: 15px;
+}
+
+.heading>h2,
+.heading>h3 {
+    color: #000068;
+}
+
+.heading>h3 {
+    font-weight: bold;
+    margin: 10px 0px 10px 0px;
+}
+
+.heading>ul {
+    margin-top: 10px;
+    margin-left: 50px;
+    margin-bottom: 10px;
+    list-style-type: none;
+}
+
+.heading>ul>li {
+    background: url("images/yellowsq.gif") no-repeat left;
+    padding-left: 15px;
+    padding-bottom: 0px;
+    font-weight: bold;
+}
+
+.into-to-algo {
+    font-style: italic;
+}
+
+.inner-algo-element {
+    margin-top: 20px;
+    list-style-type: none;
+    margin-bottom: 20px;
+}
+
+.intro-to-algo-para {
+    font-style: italic;
+}
+
+.intro-to-algo-para-list {
+    margin-left: 20px;
+}
+
+.profile-img {
+    width: 190px;
+    height: 220px;
+}
+
+.twitter-icon {
+    color: white;
+    height: 15px;
+    width: 15px;
+    margin-right: 5px;
+    position: relative;
+    top: 3px;
+}
